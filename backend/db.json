@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computador",
+      "price": 5000.00
+    },
+
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 3000.00
+    },
+
+    {
+      "id": 3,
+      "name": "MacBook",
+      "price": 8000.00
+    }
+  ]
+}
