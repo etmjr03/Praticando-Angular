@@ -1,0 +1,31 @@
+.sidenav {
+    background: #0e0a1a;
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.nav-list a {
+    color: #fff;
+    text-decoration: none;
+    background: #fff;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.nav-list a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: #5d5c61;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.nav-list i {
+    padding-right: 20px;
+}
+
+.nav-list hr {
+    border: none;
+    border-top: 1.5px solid #0e0a1a;
+}
