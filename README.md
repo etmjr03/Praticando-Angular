@@ -37,3 +37,15 @@ ng new frontend --minimal
 "inlineTemplate": false,
 "inlineStyle": false,
 ```
+
+- Intalar material
+
+```
+ng add @angular/material
+```
+
+-Gerar components
+
+```
+ng g c components/template/header
+```
