@@ -44,8 +44,12 @@ ng new frontend --minimal
 ng add @angular/material
 ```
 
--Gerar components
+- Gerar components
 
 ```
 ng g c components/template/header
+```
+- Gerar directives
+```
+ng g d directives/red
 ```
