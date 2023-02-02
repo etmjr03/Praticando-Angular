@@ -1,7 +1,7 @@
 .header {
     display: flex;
     align-items: center;
-    background: #FFF;
+    background: #0e0a1a;
     justify-content: space-between;
 }
 
@@ -9,7 +9,8 @@
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: #0e0a1a;
+    color: #FFF;
+    cursor: pointer;
 }
 
 .header a p {
@@ -18,7 +19,7 @@
 }
 
 .header p span {
-    color: #0e0a1a;
+    color: #FFF;
 }
 
 .title-group ul {
@@ -32,5 +33,5 @@
     margin: 5px;
     list-style-type: none;
     cursor: pointer;
-    color: #0e0a1a;
+    color: #FFF;
 }

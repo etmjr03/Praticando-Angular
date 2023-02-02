@@ -1,7 +1,6 @@
 .sidenav {
     background: linear-gradient(to bottom, #0e0a1a 0%, #c001ff 100%);
     width: 200px;
-    border-radius: 5px;
     padding: 10px;
 }
 
@@ -28,4 +27,10 @@
 .nav-list hr {
     border: none;
     border-top: 1.5px solid #0e0a1a;
+}
+
+.content {
+    padding: 16px;
+
+    background-color: #FFF;
 }
